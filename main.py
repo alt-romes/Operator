@@ -180,7 +180,7 @@ TOTAL_VOICE_TRANSMISSIONS = 2
 
 class ControlTransmissions(pyglet.media.Player):
     def load_voice(self, voicen):
-        return pyglet.media.load('controlvoice/voice'+str(voicen)+'.wav')
+        return pyglet.media.load(resource_path('controlvoice/voice'+str(voicen)+'.wav'))
     def __init__(self):
         super().__init__()
 
