@@ -1,0 +1,60 @@
+
+--- LORE ---
+
+Control center can't make itself known to the public yet, however it can guide you through the battlefield, and try to find you a safe way home.
+
+
+
+--- SCRIPT ---
+
+Operator.
+Operator, come in.
+
+Operator, this is Control, you've been hit by an enemy explosive.
+We detect one of our droids right beside you. Readings indicate you've lost your sight.
+
+To proceed, please enter the following clearence code onto the droid:
+
+    V H R T
+
+And press the spacebar to execute.
+
+---
+
+Manual override successful.
+
+You should be able to program the droid to guide you to another location.
+Your current position is known to be 7-F.
+There's a communication tower in sector 4-B. The droid can patch you in when you get there.
+
+---
+
+We know you have arrived at the comms tower. Use the clearence code F F N T to patch the droid in.
+
+---
+
+Enemy Commander: Who's broadcasting in this frequency? Is that you Private Forks?
+
+Control: Operator, you've reached the enemy's air transport communications. You must answer him, or the mission is compromised. Enable the microphone on the droid and answer him " Yes" 
+
+---
+
+Enemy Commander: Ah! It's good to hear you're alive Private. I'm sending a pick up to sector 1-D. Rendezvou there for extraction.
+
+Control: You'll need a pass to board that transport. Move to sector 7-A, and use the droid search function by executing G G G.
+
+---
+
+The droid acquired a pass. Find your way to sector 1-D. You must get out of there.
+
+---
+
+Control: You've made it operator. Our insider will move you from the enemy base back to home.
+Shut down the droid, input the code B G R N T G H
+Good luck, Operator.
+
+Enemy Commander: So this is who made it back. Let's go home, soldiers.
+
+--- DEATH ---
+
+Operator, your droid malfunctioned. I fear there's no hope left for you.
